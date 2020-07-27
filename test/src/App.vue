@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="我创建了feature分支"/>
+    <HelloWorld msg="我创建了feature分支并且再次回来检验哪一步能检测出冲突"/>
   </div>
 </template>
 
